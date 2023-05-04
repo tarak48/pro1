@@ -2,6 +2,6 @@
 
 echo "hi ssmb"
 
-git add tarry
-git push 
-git commit
+git add tarry 
+git commit -m "sdhkfdshkfs"
+git push
